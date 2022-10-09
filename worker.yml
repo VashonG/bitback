@@ -1,0 +1,11 @@
+apps:
+  - name: web-queue-worker
+    script: artisan
+    exec_mode: fork
+    interpreter: php
+    instances: 2
+    args:
+      - queue:work
+      - --queue=web
+      - --tries=5
+      - --sleep=1
