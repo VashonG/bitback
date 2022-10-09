@@ -1034,7 +1034,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/onesignal",
-                "reference": "8f9c538a0dd8d67bd4a2fd049930081dc37a57a6"
+                "reference": "12bb5b131e146f52c3a20bcc9a1b9567254afb3c"
             },
             "require": {
                 "guzzlehttp/guzzle": "^6.3",
@@ -1088,7 +1088,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/adminface",
-                "reference": "d4f7322f24da3e931283d69cfa373ac48d41a3d3"
+                "reference": "9bd1d7632d49a222568f9e5b583a8be713b73e0f"
             },
             "type": "library",
             "extra": {
@@ -1120,7 +1120,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/cashback",
-                "reference": "283d44bf40f6dfd7ee5ede96340c82e5fe77b28a"
+                "reference": "8d10d833a52f8dbc4404bbef41280e9ff9b3dd89"
             },
             "type": "library",
             "extra": {
@@ -1152,7 +1152,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/commands",
-                "reference": "eba808c424a2429dbd10c7fc9b7548b9e1e35fef"
+                "reference": "b455b0d7ec567b30290cbabcce643b3ca465f39f"
             },
             "require": {
                 "stichoza/google-translate-php": "^4.1"
@@ -1187,7 +1187,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/core",
-                "reference": "9e9cb412e45d16519d5efa727f7373b63f15711f"
+                "reference": "9e8572019c431f7325caeb221301a181de00a275"
             },
             "require": {
                 "genealabs/laravel-model-caching": "^0.9.0",
@@ -1232,7 +1232,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/customwork",
-                "reference": "b8fb1dba49829f624635a2ce9634f61dc0cd20eb"
+                "reference": "4e441f58e3e7ae1760794c0b05f1f2f410a73410"
             },
             "require": {
                 "illuminate/support": "^8.0|^7.0",
@@ -1281,7 +1281,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/front",
-                "reference": "aa0f3dbda9422fcef3d48050ad46ec55c2a3b05b"
+                "reference": "b7a90b533fc0ccff08f0f86b33000638ac7cf7bf"
             },
             "require": {
                 "anhskohbo/no-captcha": "^3.2",
@@ -1319,7 +1319,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/job-events",
-                "reference": "8cbfc16f11f9c6549cb62e53a6e30d8dc80f0727"
+                "reference": "ca80562f99af770f8d5a489b858d849015cb2165"
             },
             "require": {
                 "enacton/pcb-customwork": "*",
@@ -1357,7 +1357,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/mail",
-                "reference": "df4d8b3e551395b09946622bb40f7b118e0e5df2"
+                "reference": "2463741b99e9fc8173fea087a6501fdb4a6171e9"
             },
             "require": {
                 "enacton/onesignal": "@dev",
@@ -1414,7 +1414,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/seo",
-                "reference": "9c4c3650e8023d1200802c71cb8770adeac0bc4c"
+                "reference": "ec3d09e4f4bcd595853b14c6d5ed978821ab924b"
             },
             "require": {
                 "artesaos/seotools": "^0.18.0",
@@ -1453,7 +1453,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/ui",
-                "reference": "fc991621b02eea9f8405e851062d308af1d7e6d4"
+                "reference": "b67a194d79b777e82c2f59fb1c23ba50820e5b67"
             },
             "require": {
                 "mobiledetect/mobiledetectlib": "^2.8",
@@ -1505,7 +1505,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/spa",
-                "reference": "30abdf9fd003773238fa5cd2232537a37788a934"
+                "reference": "8a9a3220b2cf79fffc8597e70b66f9bea049fb64"
             },
             "require": {
                 "illuminate/support": "^6.0|^7.0",
@@ -1995,16 +1995,16 @@
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "1.8.2",
+            "version": "1.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "dc960a912984efb74d0a90222870c72c87f10c91"
+                "reference": "e98e3e6d4f86621a9b75f623996e6bbdeb4b9318"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/dc960a912984efb74d0a90222870c72c87f10c91",
-                "reference": "dc960a912984efb74d0a90222870c72c87f10c91",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/e98e3e6d4f86621a9b75f623996e6bbdeb4b9318",
+                "reference": "e98e3e6d4f86621a9b75f623996e6bbdeb4b9318",
                 "shasum": ""
             },
             "require": {
@@ -2025,16 +2025,16 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.7-dev"
+                    "dev-master": "1.9-dev"
                 }
             },
             "autoload": {
-                "psr-4": {
-                    "GuzzleHttp\\Psr7\\": "src/"
-                },
                 "files": [
                     "src/functions_include.php"
-                ]
+                ],
+                "psr-4": {
+                    "GuzzleHttp\\Psr7\\": "src/"
+                }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -2042,12 +2042,33 @@
             ],
             "authors": [
                 {
+                    "name": "Graham Campbell",
+                    "email": "hello@gjcampbell.co.uk",
+                    "homepage": "https://github.com/GrahamCampbell"
+                },
+                {
                     "name": "Michael Dowling",
                     "email": "mtdowling@gmail.com",
                     "homepage": "https://github.com/mtdowling"
                 },
                 {
+                    "name": "George Mponos",
+                    "email": "gmponos@gmail.com",
+                    "homepage": "https://github.com/gmponos"
+                },
+                {
+                    "name": "Tobias Nyholm",
+                    "email": "tobias.nyholm@gmail.com",
+                    "homepage": "https://github.com/Nyholm"
+                },
+                {
+                    "name": "Márk Sági-Kazár",
+                    "email": "mark.sagikazar@gmail.com",
+                    "homepage": "https://github.com/sagikazarmark"
+                },
+                {
                     "name": "Tobias Schultze",
+                    "email": "webmaster@tubo-world.de",
                     "homepage": "https://github.com/Tobion"
                 }
             ],
@@ -2064,9 +2085,23 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/psr7/issues",
-                "source": "https://github.com/guzzle/psr7/tree/1.8.2"
+                "source": "https://github.com/guzzle/psr7/tree/1.9.0"
             },
-            "time": "2021-04-26T09:17:50+00:00"
+            "funding": [
+                {
+                    "url": "https://github.com/GrahamCampbell",
+                    "type": "github"
+                },
+                {
+                    "url": "https://github.com/Nyholm",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/guzzlehttp/psr7",
+                    "type": "tidelift"
+                }
+            ],
+            "time": "2022-06-20T21:43:03+00:00"
         },
         {
             "name": "laravel-notification-channels/onesignal",
@@ -13105,5 +13140,5 @@
         "php": "^7.2.5"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.3.0"
 }
