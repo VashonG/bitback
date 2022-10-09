@@ -1034,7 +1034,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/onesignal",
-                "reference": "12bb5b131e146f52c3a20bcc9a1b9567254afb3c"
+                "reference": "724da38b2a3b0d6f404423a225f64522c502cf1a"
             },
             "require": {
                 "guzzlehttp/guzzle": "^6.3",
@@ -1088,7 +1088,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/adminface",
-                "reference": "9bd1d7632d49a222568f9e5b583a8be713b73e0f"
+                "reference": "7660ad1e34b7b84aaa9a82f55dc4dfd601b1ff36"
             },
             "type": "library",
             "extra": {
@@ -1120,7 +1120,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/cashback",
-                "reference": "8d10d833a52f8dbc4404bbef41280e9ff9b3dd89"
+                "reference": "80a3bd95a96f04a871cf28d233d27c997a5aed20"
             },
             "type": "library",
             "extra": {
@@ -1152,7 +1152,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/commands",
-                "reference": "b455b0d7ec567b30290cbabcce643b3ca465f39f"
+                "reference": "386df81d8e0cc219873233dd53db2f868448d7b8"
             },
             "require": {
                 "stichoza/google-translate-php": "^4.1"
@@ -1187,7 +1187,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/core",
-                "reference": "9e8572019c431f7325caeb221301a181de00a275"
+                "reference": "ae7fdc52db9e55d57356f42b823db5994d4770e2"
             },
             "require": {
                 "genealabs/laravel-model-caching": "^0.9.0",
@@ -1232,7 +1232,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/customwork",
-                "reference": "4e441f58e3e7ae1760794c0b05f1f2f410a73410"
+                "reference": "f49f6c55334e26466a7bfdcb9817baf53da32876"
             },
             "require": {
                 "illuminate/support": "^8.0|^7.0",
@@ -1281,7 +1281,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/front",
-                "reference": "b7a90b533fc0ccff08f0f86b33000638ac7cf7bf"
+                "reference": "245cf705ac0bae2e0405661f43199ed58666c5c8"
             },
             "require": {
                 "anhskohbo/no-captcha": "^3.2",
@@ -1319,7 +1319,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/job-events",
-                "reference": "ca80562f99af770f8d5a489b858d849015cb2165"
+                "reference": "589aa14d2f4f22fdaed47e5ad5c3f0d89f67ff93"
             },
             "require": {
                 "enacton/pcb-customwork": "*",
@@ -1357,7 +1357,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/mail",
-                "reference": "2463741b99e9fc8173fea087a6501fdb4a6171e9"
+                "reference": "24922c924d9891ec4f5e96f07dbed092ff835e05"
             },
             "require": {
                 "enacton/onesignal": "@dev",
@@ -1414,7 +1414,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/seo",
-                "reference": "ec3d09e4f4bcd595853b14c6d5ed978821ab924b"
+                "reference": "f750879e1d9dbf29723b2d9a1ae25f47c05e1ff0"
             },
             "require": {
                 "artesaos/seotools": "^0.18.0",
@@ -1453,7 +1453,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/ui",
-                "reference": "b67a194d79b777e82c2f59fb1c23ba50820e5b67"
+                "reference": "275c807494a79cf530c7c761d83ca6f54a787ecf"
             },
             "require": {
                 "mobiledetect/mobiledetectlib": "^2.8",
@@ -1505,7 +1505,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/spa",
-                "reference": "8a9a3220b2cf79fffc8597e70b66f9bea049fb64"
+                "reference": "6e0f8a2678198a2533300d84b95769a163299781"
             },
             "require": {
                 "illuminate/support": "^6.0|^7.0",
@@ -2672,16 +2672,16 @@
         },
         {
             "name": "lcobucci/jwt",
-            "version": "3.4.5",
+            "version": "3.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lcobucci/jwt.git",
-                "reference": "511629a54465e89a31d3d7e4cf0935feab8b14c1"
+                "reference": "3ef8657a78278dfeae7707d51747251db4176240"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lcobucci/jwt/zipball/511629a54465e89a31d3d7e4cf0935feab8b14c1",
-                "reference": "511629a54465e89a31d3d7e4cf0935feab8b14c1",
+                "url": "https://api.github.com/repos/lcobucci/jwt/zipball/3ef8657a78278dfeae7707d51747251db4176240",
+                "reference": "3ef8657a78278dfeae7707d51747251db4176240",
                 "shasum": ""
             },
             "require": {
@@ -2706,14 +2706,14 @@
                 }
             },
             "autoload": {
-                "psr-4": {
-                    "Lcobucci\\JWT\\": "src"
-                },
                 "files": [
                     "compat/class-aliases.php",
                     "compat/json-exception-polyfill.php",
                     "compat/lcobucci-clock-polyfill.php"
-                ]
+                ],
+                "psr-4": {
+                    "Lcobucci\\JWT\\": "src"
+                }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -2733,7 +2733,7 @@
             ],
             "support": {
                 "issues": "https://github.com/lcobucci/jwt/issues",
-                "source": "https://github.com/lcobucci/jwt/tree/3.4.5"
+                "source": "https://github.com/lcobucci/jwt/tree/3.4.6"
             },
             "funding": [
                 {
@@ -2745,7 +2745,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2021-02-16T09:40:01+00:00"
+            "time": "2021-09-28T19:18:28+00:00"
         },
         {
             "name": "league/commonmark",
