@@ -1034,7 +1034,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/onesignal",
-                "reference": "12bb5b131e146f52c3a20bcc9a1b9567254afb3c"
+                "reference": "724da38b2a3b0d6f404423a225f64522c502cf1a"
             },
             "require": {
                 "guzzlehttp/guzzle": "^6.3",
@@ -1088,7 +1088,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/adminface",
-                "reference": "9bd1d7632d49a222568f9e5b583a8be713b73e0f"
+                "reference": "7660ad1e34b7b84aaa9a82f55dc4dfd601b1ff36"
             },
             "type": "library",
             "extra": {
@@ -1120,7 +1120,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/cashback",
-                "reference": "8d10d833a52f8dbc4404bbef41280e9ff9b3dd89"
+                "reference": "80a3bd95a96f04a871cf28d233d27c997a5aed20"
             },
             "type": "library",
             "extra": {
@@ -1152,7 +1152,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/commands",
-                "reference": "b455b0d7ec567b30290cbabcce643b3ca465f39f"
+                "reference": "386df81d8e0cc219873233dd53db2f868448d7b8"
             },
             "require": {
                 "stichoza/google-translate-php": "^4.1"
@@ -1187,7 +1187,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/core",
-                "reference": "9e8572019c431f7325caeb221301a181de00a275"
+                "reference": "ae7fdc52db9e55d57356f42b823db5994d4770e2"
             },
             "require": {
                 "genealabs/laravel-model-caching": "^0.9.0",
@@ -1232,7 +1232,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/customwork",
-                "reference": "4e441f58e3e7ae1760794c0b05f1f2f410a73410"
+                "reference": "f49f6c55334e26466a7bfdcb9817baf53da32876"
             },
             "require": {
                 "illuminate/support": "^8.0|^7.0",
@@ -1281,7 +1281,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/front",
-                "reference": "b7a90b533fc0ccff08f0f86b33000638ac7cf7bf"
+                "reference": "245cf705ac0bae2e0405661f43199ed58666c5c8"
             },
             "require": {
                 "anhskohbo/no-captcha": "^3.2",
@@ -1319,7 +1319,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/job-events",
-                "reference": "ca80562f99af770f8d5a489b858d849015cb2165"
+                "reference": "589aa14d2f4f22fdaed47e5ad5c3f0d89f67ff93"
             },
             "require": {
                 "enacton/pcb-customwork": "*",
@@ -1357,7 +1357,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/mail",
-                "reference": "2463741b99e9fc8173fea087a6501fdb4a6171e9"
+                "reference": "24922c924d9891ec4f5e96f07dbed092ff835e05"
             },
             "require": {
                 "enacton/onesignal": "@dev",
@@ -1414,7 +1414,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/seo",
-                "reference": "ec3d09e4f4bcd595853b14c6d5ed978821ab924b"
+                "reference": "f750879e1d9dbf29723b2d9a1ae25f47c05e1ff0"
             },
             "require": {
                 "artesaos/seotools": "^0.18.0",
@@ -1453,7 +1453,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/ui",
-                "reference": "b67a194d79b777e82c2f59fb1c23ba50820e5b67"
+                "reference": "275c807494a79cf530c7c761d83ca6f54a787ecf"
             },
             "require": {
                 "mobiledetect/mobiledetectlib": "^2.8",
@@ -1505,7 +1505,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/spa",
-                "reference": "8a9a3220b2cf79fffc8597e70b66f9bea049fb64"
+                "reference": "6e0f8a2678198a2533300d84b95769a163299781"
             },
             "require": {
                 "illuminate/support": "^6.0|^7.0",
@@ -2850,16 +2850,16 @@
         },
         {
             "name": "league/flysystem",
-            "version": "1.1.3",
+            "version": "1.1.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "9be3b16c877d477357c015cec057548cf9b2a14a"
+                "reference": "3239285c825c152bcc315fe0e87d6b55f5972ed1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/9be3b16c877d477357c015cec057548cf9b2a14a",
-                "reference": "9be3b16c877d477357c015cec057548cf9b2a14a",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/3239285c825c152bcc315fe0e87d6b55f5972ed1",
+                "reference": "3239285c825c152bcc315fe0e87d6b55f5972ed1",
                 "shasum": ""
             },
             "require": {
@@ -2875,7 +2875,6 @@
                 "phpunit/phpunit": "^8.5.8"
             },
             "suggest": {
-                "ext-fileinfo": "Required for MimeType",
                 "ext-ftp": "Allows you to use FTP server storage",
                 "ext-openssl": "Allows you to use FTPS server storage",
                 "league/flysystem-aws-s3-v2": "Allows you to use S3 storage with AWS SDK v2",
@@ -2933,7 +2932,7 @@
             ],
             "support": {
                 "issues": "https://github.com/thephpleague/flysystem/issues",
-                "source": "https://github.com/thephpleague/flysystem/tree/1.x"
+                "source": "https://github.com/thephpleague/flysystem/tree/1.1.10"
             },
             "funding": [
                 {
@@ -2941,20 +2940,20 @@
                     "type": "other"
                 }
             ],
-            "time": "2020-08-23T07:39:11+00:00"
+            "time": "2022-10-04T09:16:37+00:00"
         },
         {
             "name": "league/mime-type-detection",
-            "version": "1.7.0",
+            "version": "1.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/mime-type-detection.git",
-                "reference": "3b9dff8aaf7323590c1d2e443db701eb1f9aa0d3"
+                "reference": "ff6248ea87a9f116e78edd6002e39e5128a0d4dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/mime-type-detection/zipball/3b9dff8aaf7323590c1d2e443db701eb1f9aa0d3",
-                "reference": "3b9dff8aaf7323590c1d2e443db701eb1f9aa0d3",
+                "url": "https://api.github.com/repos/thephpleague/mime-type-detection/zipball/ff6248ea87a9f116e78edd6002e39e5128a0d4dd",
+                "reference": "ff6248ea87a9f116e78edd6002e39e5128a0d4dd",
                 "shasum": ""
             },
             "require": {
@@ -2962,7 +2961,7 @@
                 "php": "^7.2 || ^8.0"
             },
             "require-dev": {
-                "friendsofphp/php-cs-fixer": "^2.18",
+                "friendsofphp/php-cs-fixer": "^3.2",
                 "phpstan/phpstan": "^0.12.68",
                 "phpunit/phpunit": "^8.5.8 || ^9.3"
             },
@@ -2985,7 +2984,7 @@
             "description": "Mime-type detection for Flysystem",
             "support": {
                 "issues": "https://github.com/thephpleague/mime-type-detection/issues",
-                "source": "https://github.com/thephpleague/mime-type-detection/tree/1.7.0"
+                "source": "https://github.com/thephpleague/mime-type-detection/tree/1.11.0"
             },
             "funding": [
                 {
@@ -2997,7 +2996,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-01-18T20:58:21+00:00"
+            "time": "2022-04-17T13:12:02+00:00"
         },
         {
             "name": "league/oauth1-client",
