@@ -1,0 +1,19 @@
+name: Bitback
+id: 'ari:cloud:compass:e648b3c4-1609-4dd1-83ee-473a3956f868:component/ffd68ce4-da48-4fb5-b081-17e0fd7498a6/c266cad8-653e-4b71-b8d4-9af529ae85d0'
+description: null
+ownerId: null
+fields: {}
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/Kapedinc/Bitback'
+  - name: ''
+    type: PROJECT
+    url: 'https://kaped.atlassian.net/browse/BIT'
+  - name: ''
+    type: OTHER_LINK
+    url: 'https://www.figma.com/file/Ez5rI5Qfd3kb2lkFNsxk9p/Bitback?node-id=13%3A0&t=k6rovQ8LX8LHPfFw-1'
+relationships: {}
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
