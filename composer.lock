@@ -1030,7 +1030,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/onesignal",
-                "reference": "c87d824fde18595a7e2624cbbba59d5d7a5d1667"
+                "reference": "97d1626b24def0ab740a8db78bd4caf5cd6c901c"
             },
             "require": {
                 "guzzlehttp/guzzle": "^6.3",
@@ -1084,7 +1084,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/adminface",
-                "reference": "1196abd6792cb819ed81febbd7f37ffceff28ea9"
+                "reference": "68abb1e591157cd8a436be18c1e80f1b0d0f1c9a"
             },
             "type": "library",
             "extra": {
@@ -1116,7 +1116,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/cashback",
-                "reference": "849086d1b141cff6fc9ac416c8c3f32f89c1ff06"
+                "reference": "5c3ef83ab04c9e9c7d3a3106c1745f9b849b5bd9"
             },
             "type": "library",
             "extra": {
@@ -1148,7 +1148,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/commands",
-                "reference": "df1b75812b41df1dd2bf95ab29cdb0fab18f4843"
+                "reference": "6c4636d50d07655e143737a4e28b321b92cab5aa"
             },
             "require": {
                 "stichoza/google-translate-php": "^4.1"
@@ -1183,7 +1183,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/core",
-                "reference": "fe86047aacb7626509073c456371692c87610c58"
+                "reference": "1a3d2b31c538458cd7e5fafa5b3dc3f44b053309"
             },
             "require": {
                 "genealabs/laravel-model-caching": "^0.9.0",
@@ -1228,7 +1228,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/customwork",
-                "reference": "e3de67c50a6ecd9114eb19013e16c1918bc5cea3"
+                "reference": "4a7343b3e75041dde831608b39a2f4240cc68bc2"
             },
             "require": {
                 "illuminate/support": "^8.0|^7.0",
@@ -1277,7 +1277,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/front",
-                "reference": "78b8d5ca51682afa57b15e0a1cf8ec459734d40c"
+                "reference": "3a2a9cd586ea032b0ac40633ff17b6ffaf1c39e4"
             },
             "require": {
                 "anhskohbo/no-captcha": "^3.2",
@@ -1315,7 +1315,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/job-events",
-                "reference": "a6ffa2e4c1f7e5ddd9ca7cbb074ad952b6277569"
+                "reference": "c1d613200d87ba272320b034f019db8150ca3a46"
             },
             "require": {
                 "enacton/pcb-customwork": "*",
@@ -1353,7 +1353,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/mail",
-                "reference": "677ca329ea7c1f857820c93fb2aaa15656da20cb"
+                "reference": "e093db512d9f5c575a7c4a0e7fd24032172071e2"
             },
             "require": {
                 "enacton/onesignal": "@dev",
@@ -1410,7 +1410,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/seo",
-                "reference": "2153dd8a691388921466b59a1d6a79711750f578"
+                "reference": "721d3c5dfb50c68174e8478b683bdde0614c83bb"
             },
             "require": {
                 "artesaos/seotools": "^0.18.0",
@@ -1449,7 +1449,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/ui",
-                "reference": "557dd061bec32aa8e812a934f192130a5ff3b126"
+                "reference": "b4239feab3ba54d45feb76d7b33215f5fe83ed10"
             },
             "require": {
                 "mobiledetect/mobiledetectlib": "^2.8",
@@ -1501,7 +1501,7 @@
             "dist": {
                 "type": "path",
                 "url": "../packages/spa",
-                "reference": "a08960c428bee7e559f9b47094603f33bc3dcd3c"
+                "reference": "980f85b3bb26c99fe3ab0c70294951865b899531"
             },
             "require": {
                 "illuminate/support": "^6.0|^7.0",
@@ -2064,16 +2064,16 @@
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "1.9.0",
+            "version": "1.9.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "e98e3e6d4f86621a9b75f623996e6bbdeb4b9318"
+                "reference": "e4490cabc77465aaee90b20cfc9a770f8c04be6b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/e98e3e6d4f86621a9b75f623996e6bbdeb4b9318",
-                "reference": "e98e3e6d4f86621a9b75f623996e6bbdeb4b9318",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/e4490cabc77465aaee90b20cfc9a770f8c04be6b",
+                "reference": "e4490cabc77465aaee90b20cfc9a770f8c04be6b",
                 "shasum": ""
             },
             "require": {
@@ -2092,11 +2092,6 @@
                 "laminas/laminas-httphandlerrunner": "Emit PSR-7 responses"
             },
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "1.9-dev"
-                }
-            },
             "autoload": {
                 "files": [
                     "src/functions_include.php"
@@ -2154,7 +2149,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/psr7/issues",
-                "source": "https://github.com/guzzle/psr7/tree/1.9.0"
+                "source": "https://github.com/guzzle/psr7/tree/1.9.1"
             },
             "funding": [
                 {
@@ -2170,7 +2165,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-06-20T21:43:03+00:00"
+            "time": "2023-04-17T16:00:37+00:00"
         },
         {
             "name": "laravel-notification-channels/onesignal",
@@ -3956,25 +3951,25 @@
         },
         {
             "name": "psr/http-message",
-            "version": "1.0.1",
+            "version": "1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/http-message.git",
-                "reference": "f6561bf28d520154e4b0ec72be95418abe6d9363"
+                "reference": "cb6ce4845ce34a8ad9e68117c10ee90a29919eba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/http-message/zipball/f6561bf28d520154e4b0ec72be95418abe6d9363",
-                "reference": "f6561bf28d520154e4b0ec72be95418abe6d9363",
+                "url": "https://api.github.com/repos/php-fig/http-message/zipball/cb6ce4845ce34a8ad9e68117c10ee90a29919eba",
+                "reference": "cb6ce4845ce34a8ad9e68117c10ee90a29919eba",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.0"
+                "php": "^7.2 || ^8.0"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.0.x-dev"
+                    "dev-master": "1.1.x-dev"
                 }
             },
             "autoload": {
@@ -4003,9 +3998,9 @@
                 "response"
             ],
             "support": {
-                "source": "https://github.com/php-fig/http-message/tree/master"
+                "source": "https://github.com/php-fig/http-message/tree/1.1"
             },
-            "time": "2016-08-06T14:39:51+00:00"
+            "time": "2023-04-04T09:50:52+00:00"
         },
         {
             "name": "psr/log",
